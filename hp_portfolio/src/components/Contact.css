@@ -1,0 +1,21 @@
+.contact_section {
+  background-color: #100f0f;
+
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+
+  padding: 5rem 0;
+}
+
+.contact_title {
+  color: #007d23;
+
+  font-size: 3rem;
+  text-align: center;
+}
+
+.contact_icons {
+  display: flex;
+  justify-content: space-around;
+}
